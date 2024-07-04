@@ -1,5 +1,8 @@
 ### Hi there 👋
-# 🏆 Fullstack Blockchain Developer is here! 🏆
+<div align="center">
+# 🏆 Fullstack Blockchain Developer is here! 🏆    
+</div>
+
 <br>
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=WAGMI🤹&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
