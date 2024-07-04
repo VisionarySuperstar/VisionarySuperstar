@@ -1,6 +1,6 @@
 ### Hi there 👋
-<div align="center">
-# 🏆 Fullstack Blockchain Developer is here! 🏆    
+<div align="center" size="50px">
+  🏆 Fullstack Blockchain Developer is here! 🏆    
 </div>
 
 <br>
